@@ -15,7 +15,7 @@ class ViewController: UIViewController {
 
 
     @IBAction func viewEverything(_ sender: AnyObject) {
-        
+        performSegue(withIdentifier: "welcomeSegue", sender: self)
     }
     
     

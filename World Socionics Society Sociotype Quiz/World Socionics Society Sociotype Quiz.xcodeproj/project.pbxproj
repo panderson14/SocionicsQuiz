@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD4509CB1DAE6F0B007C76C5 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4509CA1DAE6F0B007C76C5 /* AboutUsViewController.swift */; };
 		CDE8E9081DADCF8F004FC6F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE8E9071DADCF8F004FC6F2 /* AppDelegate.swift */; };
 		CDE8E90A1DADCF8F004FC6F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE8E9091DADCF8F004FC6F2 /* ViewController.swift */; };
 		CDE8E90D1DADCF8F004FC6F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDE8E90B1DADCF8F004FC6F2 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD4509CA1DAE6F0B007C76C5 /* AboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		CDE8E9041DADCF8F004FC6F2 /* World Socionics Society Sociotype Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "World Socionics Society Sociotype Quiz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDE8E9071DADCF8F004FC6F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDE8E9091DADCF8F004FC6F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				CDE8E9071DADCF8F004FC6F2 /* AppDelegate.swift */,
 				CDE8E9091DADCF8F004FC6F2 /* ViewController.swift */,
 				CDE8E90B1DADCF8F004FC6F2 /* Main.storyboard */,
+				CD4509CA1DAE6F0B007C76C5 /* AboutUsViewController.swift */,
 				CDE8E90E1DADCF8F004FC6F2 /* Assets.xcassets */,
 				CDE8E9101DADCF8F004FC6F2 /* LaunchScreen.storyboard */,
 				CDE8E9131DADCF8F004FC6F2 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDE8E90A1DADCF8F004FC6F2 /* ViewController.swift in Sources */,
+				CD4509CB1DAE6F0B007C76C5 /* AboutUsViewController.swift in Sources */,
 				CDE8E9081DADCF8F004FC6F2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +308,7 @@
 				CDE8E9181DADCF8F004FC6F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
