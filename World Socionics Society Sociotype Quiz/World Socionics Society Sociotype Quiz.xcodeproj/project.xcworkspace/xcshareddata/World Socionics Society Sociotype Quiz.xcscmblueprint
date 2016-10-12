@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1E01A4A19696C41C818B1BDDDA728B1F47606743",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1E01A4A19696C41C818B1BDDDA728B1F47606743" : 9223372036854775807,
+    "4C9456B4622CC201E2A71D1994B760EBF9E69574" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "166F612E-9AE8-4874-B0D5-25D9C1B74F60",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1E01A4A19696C41C818B1BDDDA728B1F47606743" : "SocionicsQuiz\/",
+    "4C9456B4622CC201E2A71D1994B760EBF9E69574" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "World Socionics Society Sociotype Quiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "World Socionics Society Sociotype Quiz\/World Socionics Society Sociotype Quiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Panderson14\/SocionicsQuiz.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E01A4A19696C41C818B1BDDDA728B1F47606743"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Panderson14\/PHYS2660.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C9456B4622CC201E2A71D1994B760EBF9E69574"
+    }
+  ]
+}
